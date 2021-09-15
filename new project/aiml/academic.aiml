@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+   <category>
+    <pattern>ACADEMICS</pattern>
+    <template> Academics consists of Programmes (UG,PG,PhD), Academic Calendar, Syllabus, Ordinances, Academic Council, Dean Academics, Board of Studies and Library.
+Link: http://www.sgsits.ac.in/academics
+    </template>
+    </category>
+   <category>
+     <pattern>UNDERGRADUATE PROGRAMMES</pattern>
+    <template> To know Different UG Programmes available follow the link
+     Link: http://www.sgsits.ac.in/admission/under-graduate
+    </template>
+    </category>
+    <category>
+      <pattern>UG PROGRAMMES</pattern>
+    <template> To know Different UG Programmes available follow the link
+     Link: http://www.sgsits.ac.in/admission/under-graduate
+    </template>
+    </category>
+    <category>
+      <pattern>POSTGRADUATE PROGRAMMES</pattern>
+    <template>To know Different PG Programmes available follow the link
+    Link: http://www.sgsits.ac.in/post-graduate
+    </template>
+    </category>
+   <category>
+      <pattern>PG PROGRAMMES</pattern>
+    <template>To know Different PG Programmes available follow the link
+    Link: http://www.sgsits.ac.in/post-graduate
+    </template>
+    </category>
+    <category>
+      <pattern>PHD PROGRAMMES</pattern>
+    <template>To know Different PhD Programmes available follow the link
+     Link: http://www.sgsits.ac.in/admission/ph-d
+    </template>
+    </category>
+    <category>
+    <pattern>ACADEMIC CALENDAR BE</pattern>
+    <template> You can get the academic calendar from the link given below
+    http://www.sgsits.ac.in/academics/academic-calender
+</template>
+</category>
+</aiml>

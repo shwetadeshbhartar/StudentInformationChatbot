@@ -1,0 +1,131 @@
+<aiml>
+<category>
+<pattern>  HOSTEL FACILITY  </pattern>
+<template>
+Yes the college provides hostel facility, 4 boys hostel and 3 girls hostel.
+</template>
+</category>
+
+<category>
+<pattern>  * HOSTEL FACILITY  </pattern>
+<template>
+Yes the college provides hostel facility, 4 boys hostel and 3 girls hostel.
+</template>
+</category>
+
+<category>
+<pattern> * HOSTEL FACILITY * </pattern>
+<template>
+Yes the college provides hostel facility, 4 boys hostel and 3 girls hostel.
+</template>
+</category>
+
+<category>
+<pattern>  * FACILITIES * HOSTELS</pattern>
+<template>
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/images/downloads/Hostel_Facilities.pdf">Click Here</a>
+]]>
+</template>
+</category>
+
+<category>
+<pattern>HOSTEL FEES  </pattern>
+<template>To know about hostel fees
+<![CDATA[
+<a target="_blank href="http://www.sgsits.ac.in/images/downloads/Hostel_Fees.pdf">Click Here</a>
+]]>
+</template>
+</category>
+
+<category>
+<pattern>* HOSTEL FEES  </pattern>
+<template>To know about hostel fees
+<![CDATA[
+<a target="_blank href="http://www.sgsits.ac.in/images/downloads/Hostel_Fees.pdf">Click Here</a>
+]]>
+</template>
+</category>
+
+<category>
+<pattern>* HOSTEL FEES *</pattern>
+<template>To know about hostel fees
+<![CDATA[
+<a target="_blank href="http://www.sgsits.ac.in/images/downloads/Hostel_Fees.pdf">Click Here</a>
+]]>
+</template>
+</category>
+
+<category>
+<pattern>HOSTEL FEES *</pattern>
+<template>To know about hostel fees
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/images/downloads/Hostel_Fees.pdf">Click Here</a>
+]]>
+</template>
+</category>
+
+<category>
+<pattern>INFORMATION * HOSTEL  </pattern>
+<template>
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/images/downloads/Hostel_Information.pdf">Click Here</a>
+]]>
+</template>
+</category>
+
+<category>
+<pattern>* INFORMATION * HOSTEL </pattern>
+<template>
+<![CDATA[
+<a target="_blank href="http://www.sgsits.ac.in/images/downloads/Hostel_Information.pdf">Click Here</a>
+]]>
+</template>
+</category>
+
+<category>
+<pattern>INFORMATION * HOSTEL * </pattern>
+<template>
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/images/downloads/Hostel_Information.pdf">Click Here</a>
+]]>
+</template>
+</category>
+
+<category>
+<pattern>* INFORMATION * HOSTEL * </pattern>
+<template>
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/images/downloads/Hostel_Information.pdf">Click Here</a>
+]]>
+</template>
+</category>
+
+<category>
+<pattern>ADMISSION * HOSTEL</pattern>
+<template>There is procedure to know more about it
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/images/downloads/Hostel_Admission.pdf">Click Here</a>
+]]>
+</template>
+</category>
+
+<category>
+<pattern>* ADMISSION * HOSTEL</pattern>
+<template>There is procedure to know more about it
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/images/downloads/Hostel_Admission.pdf">Click Here</a>
+]]>
+</template>
+</category>
+
+    <category>
+<pattern>* ADMISSION * HOSTEL *</pattern>
+<template>There is procedure to know more about it
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/images/downloads/Hostel_Admission.pdf">Click Here</a>
+]]>
+</template>
+</category>
+
+</aiml>

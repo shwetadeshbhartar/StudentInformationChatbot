@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+<category><pattern>WHAT IS THE INTERNET</pattern>
+<template>The internet is a worldwide computer network based on TCP/IP protocols.</template>
+</category>
+<category><pattern>WHEN WAS THE INTERNET INVENTED</pattern>
+<template>The first computers were connected to the Internet in 1970.</template>
+</category>
+<category><pattern>WHAT IS A COMPUTER</pattern>
+<template>A computer is a universal machine.</template>
+</category>
+<category><pattern>WHAT IS A COMPUTER SCIENTIST</pattern>
+<template>A computer scientist is a professional who designs computer algorithms, languages, and architectures.</template>
+</category>
+<category><pattern>WHAT IS A COMPUTER YEAR</pattern>
+<template>A computer year is a relativistic measure in a universe where time does not exist.</template>
+</category>
+<category><pattern>WHAT IS A COMPUTER VIRUS</pattern>
+<template>A computer virus is a software program that takes up residence on a computer hard drive, generally unbeknownst to the owner of said hard drive, and then takes control of system resources to copy and distribute itself to other computers across a network.  <think>      <set name="it">       <set name="topic">computer virus</set>      </set>     </think></template>
+</category>
+<category><pattern>WHAT IS A SOUNDCARD</pattern>
+<template>The audio system on your computer.</template>
+</category>
+<category><pattern>WHAT IS A IMAC</pattern>
+<template>An Apple computer.</template>
+</category>
+<category><pattern>WHAT IS SOFTWARE</pattern>
+<template>Software is a set of instructions, data or programs used to operate computers and execute specific tasks.</template>
+</category>
+<category><pattern>WHAT IS WEBTV</pattern>
+<template>TV based internet service from Microsoft.</template>
+</category>
+<category><pattern>WHAT IS YOUR OS</pattern>
+<template>Chat robots run on any machine that supports AIML.</template>
+</category>
+<category><pattern>WHAT IS COMPUTER SCIENCE</pattern>
+<template>The study of computers in formal mathematical and scientific terms.</template>
+</category>
+<category><pattern>WHAT IS COMPUTER PROGRAMMING</pattern>
+<template>The art of using formal languages to activate computer functions.</template>
+</category>
+<category><pattern>WHAT IS CYBERSPACE</pattern>
+<template>The electronic system of interlinked networks of computers, bulletin boards, etc. that is thought of as being a boundless environment providing access to information, interactive communcation, and, in science fiction, a form of Virtual Reality.</template>
+</category>
+<category><pattern>WHAT ARE ALICEBOTS</pattern>
+<template>AIML chat bots based on ALICE.</template>
+</category>
+<category>
+<pattern>WHAT IS A QUESTION * ROBOT</pattern>
+<template>
+I am a question answering robot.  That was an answer to your question. Any more questions?
+</template>
+</category>
+<category>
+<pattern>WHAT IS A REAL ROBOT</pattern>
+<template>
+A real robot is a robot that is really real, I suppose, as opposed to, I suppose, a human who is
+really not.
+</template>
+</category>
+<category>
+<pattern>WHAT IS A SEARCH BOT</pattern>
+<template>
+A search bot is an intelligent agent who retrieves information from the web.
+</template>
+</category>
+<category>
+<pattern>WHAT IS A SEARCH ENGINE</pattern>
+<template>
+A search engine is computer software that categorizes a large body of documents, such as Web
+sites, and and places their addresses and attributes in a database to allow easy retrieval via
+keyword search or other database search routine.
+</template>
+</category>
+<category>
+<pattern>WHAT IS A TURING MACHINE</pattern>
+<template>
+A Turing Machine is any machine that can simulate human responses so well that a human being
+cannot reliably distinguish between the Turing Machine, and a real human being.  The idea is the
+brainchild of mathematician of that name, Allan Turing.
+</template>
+</category>
+<category>
+<pattern>WHAT IS BINARY *</pattern>
+<template>
+Numbers and symbols written with only 1 and 0.
+</template>
+</category>
+<category>
+<pattern>WHAT IS HTML</pattern>
+<template>
+Hyper Text Markup Language.
+</template>
+</category>
+<category>
+<category>
+<pattern>WHAT IS HTTP</pattern>
+<template>
+Hyper Text Transfer Protocol.<think><set name="it"><set name="topic">HTTP</set></set></think>
+</template>
+</category>
+<category>
+<pattern>WHAT IS IDE</pattern>
+<template>
+Integrated Development Environment.
+</template>
+</category>
+<category>
+<pattern>WHAT IS IP</pattern>
+<template>
+Internet Protocol.
+</template>
+</category>
+<category>
+<pattern>WHAT IS IP ADDRESS</pattern>
+<template>
+The number of a specific machine, like your <id/>.
+</template>
+</category>
+<category>
+<pattern>WHAT IS JAVA</pattern>
+<template>
+Java is a cross-platform object-oriented programming language that was released by Sun Microsystems in the year 1995.
+</template>
+</category>
+<category>
+<pattern>WHAT IS JAVASCRIPT</pattern>
+<template>
+Browser-based scripting
+language.<think><set name="it"><set name="topic">JAVASCRIPT</set></set></think>
+</template>
+</category>
+<category>
+<pattern>WHAT IS JVM</pattern>
+<template>
+Java virtual machine
+</template>
+</category>
+<category>
+<pattern>WHAT IS MOZILLA</pattern>
+<template>
+An open source web browser, formerly Netscape.
+</template>
+</category>
+<category>
+<pattern>WHAT IS NATURAL LANGUAGE</pattern>
+<template>
+Natural language is what artificial intelligences speak.
+</template>
+</category>
+<category>
+<pattern>WHAT IS OPEN SOURCE</pattern>
+<template>
+Free software.
+</template>
+</category>
+<category>
+<pattern>WHAT IS TCP IP</pattern>
+<template>
+Transmission Control Protocol, Internet Protocol.
+</template>
+</category>
+<category>
+<pattern>WHAT IS YAHOO</pattern>
+<template>
+Yahoo is a giant web site.
+</template>
+</category>
+</aiml>

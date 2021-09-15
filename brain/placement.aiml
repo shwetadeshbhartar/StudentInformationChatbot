@@ -1,0 +1,99 @@
+<aiml>
+<category>
+<pattern>  LEADING COMPANIES  </pattern>
+<template>
+<![CDATA[
+<a target="_blank" href=" http://www.sgsits.ac.in/leading-companies ">Click Here</a>
+]]>
+</template>
+</category>
+<category>
+<pattern>  PLACEMENT RECORDS  </pattern>
+<template>
+<![CDATA[
+<a target="_blank" href=" http://www.sgsits.ac.in/campus-record ">Click Here</a>
+]]>
+</template>
+</category>
+<category>
+<pattern> * LEADING COMPANIES * </pattern>
+<template>
+<![CDATA[
+<a target="_blank" href=" http://www.sgsits.ac.in/leading-companies ">Click Here</a>
+]]>
+</template>
+</category>
+<category>
+<pattern> * PLACEMENT RECORDS * </pattern>
+<template>
+<![CDATA[
+<a target="_blank" href=" http://www.sgsits.ac.in/campus-record ">Click Here</a>
+]]>
+</template>
+</category>
+    <category>
+<pattern> * LEADING COMPANIES  </pattern>
+<template>
+<![CDATA[
+<a target="_blank" href=" http://www.sgsits.ac.in/leading-companies ">Click Here</a>
+]]>
+</template>
+</category>
+<category>
+<pattern> * PLACEMENT RECORDS  </pattern>
+<template>
+<![CDATA[
+<a target="_blank" href=" http://www.sgsits.ac.in/campus-record ">Click Here</a>
+]]>
+</template>
+</category>
+    <category>
+<pattern>  LEADING COMPANIES * </pattern>
+<template>
+<![CDATA[
+<a target="_blank" href=" http://www.sgsits.ac.in/leading-companies ">Click Here</a>
+]]>
+</template>
+</category>
+<category>
+<pattern>  PLACEMENT RECORDS * </pattern>
+<template>
+<![CDATA[
+<a target="_blank" href=" http://www.sgsits.ac.in/campus-record ">Click Here</a>
+]]>
+</template>
+</category>
+<category>
+<pattern> TRAINING AND PLACEMENT OFFICER</pattern>
+<template>
+Mr. R. K. Anchaliya
+</template>
+</category>
+<category>
+<pattern> * TRAINING AND PLACEMENT OFFICER *</pattern>
+<template>
+Mr. R. K. Anchaliya
+</template>
+</category>
+<category>
+<category>
+<pattern>  * TRAINING AND PLACEMENT OFFICER</pattern>
+<template>
+Mr. R. K. Anchaliya
+</template>
+</category>
+<category>
+<pattern> TRAINING AND PLACEMENT OFFICER *</pattern>
+<template>
+Mr. R. K. Anchaliya
+</template>
+</category>
+<pattern>  TRAINING AND PLACEMENT CELL  </pattern>
+<template>
+<![CDATA[
+<a target="_blank" href=" http://www.sgsits.ac.in/training-placement-cell ">Click Here</a>
+]]>
+</template>
+</category>
+
+</aiml>

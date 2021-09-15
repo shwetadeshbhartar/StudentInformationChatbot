@@ -1,0 +1,133 @@
+<aiml>
+<category>
+<pattern>UG ADMISSION</pattern>
+<template>For UG Admission related information
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/admission/under-graduate ">Click Here</a>
+]]>
+</template>
+</category>
+<category>
+<pattern> PG ADMISSION  </pattern>
+<template>For PG Admission related information
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/admission/post-graduate ">Click Here</a>
+]]>
+</template>
+</category>
+<category>
+<pattern>  PTDC ADMISSION </pattern>
+<template>For PTDC Admission related information
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/admission/ptdc">Click Here</a>
+]]>
+</template>
+</category>
+<category>
+<pattern>  PHD ADMISSION </pattern>
+<template>For PHD Admission related information
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/admission/ph-d">Click Here</a>
+]]>
+</template>
+</category>
+
+<category>
+<pattern>* UG ADMISSION</pattern>
+<template>For UG Admission related information
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/admission/under-graduate ">Click Here</a>
+]]>
+</template>
+</category>
+<category>
+<pattern> * PG ADMISSION  </pattern>
+<template>For PG Admission related information
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/admission/post-graduate ">Click Here</a>
+]]>
+</template>
+</category>
+<category>
+<pattern>  * PTDC ADMISSION </pattern>
+<template>For PTDC Admission related information
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/admission/ptdc">Click Here</a>
+]]>
+</template>
+</category>
+<category>
+<pattern>  * PHD ADMISSION </pattern>
+<template>For PHD Admission related information
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/admission/ph-d">Click Here</a>
+]]>
+</template>
+</category>
+
+<category>
+<pattern>* UG ADMISSION *</pattern>
+<template>For UG Admission related information
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/admission/under-graduate ">Click Here</a>
+]]>
+</template>
+</category>
+<category>
+<pattern> * PG ADMISSION *  </pattern>
+<template>For PG Admission related information
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/admission/post-graduate ">Click Here</a>
+]]>
+</template>
+</category>
+<category>
+<pattern>  * PTDC ADMISSION * </pattern>
+<template>For PTDC Admission related information
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/admission/ptdc">Click Here</a>
+]]>
+</template>
+</category>
+<category>
+<pattern>  * PHD ADMISSION *</pattern>
+<template>For PHD Admission related information
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/admission/ph-d">Click Here</a>
+]]>
+</template>
+</category>
+
+<category>
+<pattern>UG ADMISSION *</pattern>
+<template>For UG Admission related information
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/admission/under-graduate ">Click Here</a>
+]]>
+</template>
+</category>
+<category>
+<pattern> PG ADMISSION * </pattern>
+<template>For PG Admission related information
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/admission/post-graduate ">Click Here</a>
+]]>
+</template>
+</category>
+<category>
+<pattern>  PTDC ADMISSION *</pattern>
+<template>For PTDC Admission related information
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/admission/ptdc">Click Here</a>
+]]>
+</template>
+</category>
+<category>
+<pattern>  PHD ADMISSION *</pattern>
+<template>For PHD Admission related information
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/admission/ph-d">Click Here</a>
+]]>
+</template>
+</category>
+</aiml>

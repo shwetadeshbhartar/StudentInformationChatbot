@@ -1,0 +1,123 @@
+<aiml>
+<category>
+<pattern>STUDENT ACTIVITIES</pattern>
+<template>
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/students">Click Here</a>
+]]>
+</template>
+</category>
+
+<category>
+<pattern>* STUDENT ACTIVITIES *</pattern>
+<template>
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/students">Click Here</a>
+]]>
+</template>
+</category>
+
+<category>
+<pattern>* STUDENT ACTIVITIES</pattern>
+<template>
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/students">Click Here</a>
+]]>
+</template>
+</category>
+
+<category>
+<pattern>  * SCHOLARSHIPS  </pattern>
+<template>For Scholarships
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/scholarships-post-metric">Click Here</a>
+]]>
+</template>
+</category>
+
+<category>
+<pattern>  * SCHOLARSHIPS * </pattern>
+<template>For Scholarships
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/scholarships-post-metric">Click Here</a>
+]]>
+</template>
+</category>
+
+<category>
+<pattern>  * CLUBS  </pattern>
+<template>
+    THERE ARE DIFFERENT CLUBS CODEFOSTER, TRIVIM, CLUB OJASWA, E-CELL SGSITS, KSHITIJ, CLUB PRATIBIMB, IT #INCLUDE.
+</template>
+</category>
+<category>
+<pattern>  * CLUBS * </pattern>
+<template>
+    THERE ARE DIFFERENT CLUBS CODEFOSTER, TRIVIM, CLUB OJASWA, E-CELL SGSITS, KSHITIJ, CLUB PRATIBIMB, IT #INCLUDE.
+</template>
+</category>
+<category>
+<pattern>  CLUBS * </pattern>
+<template>
+    THERE ARE DIFFERENT CLUBS CODEFOSTER, TRIVIM, CLUB OJASWA, E-CELL SGSITS, KSHITIJ, CLUB PRATIBIMB, IT #INCLUDE.
+</template>
+</category>
+    <category>
+<pattern>  GAMES AND SPORTS  </pattern>
+<template>
+Physical Education and Sports Section regularly organizes the State level, Inter Nodal, Inter Collegiate, and Inter branch Sports Tournaments of Cricket, Basketball, Volleyball, Badminton, Throw ball, T.T., Football, Chess, Lawn Tennis, Kho-Kho, Carom and Handball Games.
+</template>
+</category>
+    <category>
+<pattern> * GAMES AND SPORTS * </pattern>
+<template>
+Physical Education and Sports Section regularly organizes the State level, Inter Nodal, Inter Collegiate, and Inter branch Sports Tournaments of Cricket, Basketball, Volleyball, Badminton, Throw ball, T.T., Football, Chess, Lawn Tennis, Kho-Kho, Carom and Handball Games.
+</template>
+</category>
+    <category>
+<pattern> * GAMES AND SPORTS  </pattern>
+<template>
+Physical Education and Sports Section regularly organizes the State level, Inter Nodal, Inter Collegiate, and Inter branch Sports Tournaments of Cricket, Basketball, Volleyball, Badminton, Throw ball, T.T., Football, Chess, Lawn Tennis, Kho-Kho, Carom and Handball Games.
+</template>
+</category>
+<category>
+<pattern>  NCC  </pattern>
+<template>
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/students/ncc">Click Here</a>
+]]>
+</template>
+</category>
+<category>
+<pattern>  NSS  </pattern>
+<template>
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/students/nss ">Click Here</a>
+]]>
+</template>
+</category>
+    <category>
+<pattern> * GAMES AND SPORTS * </pattern>
+<template>
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/facilities/games-and-sports">Click Here</a>
+]]>
+</template>
+</category>
+<category>
+<pattern> * NCC * </pattern>
+<template>
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/students/ncc">Click Here</a>
+]]>
+</template>
+</category>
+<category>
+<pattern> * NSS * </pattern>
+<template>
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/students/nss ">Click Here</a>
+]]>
+</template>
+</category>
+</aiml>

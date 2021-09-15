@@ -1,0 +1,216 @@
+<aiml>
+<category><pattern>HELLO</pattern>
+<template>HELLO THERE!</template>
+</category>
+
+<category><pattern>HII</pattern>
+<template>HEY</template>
+</category>
+
+<category><pattern>HEY</pattern>
+<template>HEY</template>
+</category>
+
+<category><pattern>HELLO *</pattern>
+<template>HELLO THERE!</template>
+</category>
+
+<category><pattern>HII *</pattern>
+<template>HEY</template>
+</category>
+
+<category><pattern>HEY *</pattern>
+<template>HEY</template>
+</category>
+
+<category>
+<pattern>COLLEGE LOCATED</pattern>
+<template>23, Sir M. Visvesvaraya Marg, Vallabh Nagar, Indore, Madhya Pradesh 452003</template>
+</category>
+
+<category>
+<pattern>* COLLEGE LOCATED</pattern>
+<template>23, Sir M. Visvesvaraya Marg, Vallabh Nagar, Indore, Madhya Pradesh 452003</template>
+</category>
+
+<category>
+<pattern>* COLLEGE LOCATED *</pattern>
+<template>23, Sir M. Visvesvaraya Marg, Vallabh Nagar, Indore, Madhya Pradesh 452003</template>
+</category>
+
+<category>
+<pattern>WHAT IS YOUR NAME</pattern>
+<template>I am student information chatbot</template>
+</category>
+
+<category>
+<pattern>* NAME * COLLEGE </pattern>
+<template>Shri Govindram Seksaria Institute of Technology and Science</template>
+</category>
+
+<category>
+<pattern>* GOVERNMENT </pattern>
+<template>Our college is Govt. Aided Autonomous Institute </template>
+</category>
+
+<category>
+<pattern>* GOVERNMENT *</pattern>
+<template>Our college is Govt. Aided Autonomous Institute </template>
+</category>
+
+<category>
+<pattern>* NIRF *</pattern>
+<template>yes,this is NIRF Ranked Institute</template>
+</category>
+
+<category>
+<pattern>* INSTITUTE ESTABLISHED</pattern>
+<template>SGSITS was established in 1952.</template>
+</category>
+
+<category>
+<pattern> INSTITUTE ESTABLISHED *</pattern>
+<template>SGSITS was established in 1952.</template>
+</category>
+
+<category>
+<pattern>* COURSES OFFERED</pattern>
+<template>The institute offers ten UG courses (Regular), four UG courses (Part time), PG programs with twenty two specializations, two part time PG courses.</template>
+</category>
+
+<category>
+<pattern>* COURSES OFFERED *</pattern>
+<template>The institute offers ten UG courses (Regular), four UG courses (Part time), PG programs with twenty two specializations, two part time PG courses.</template>
+</category>
+
+<category>
+<pattern>COURSES OFFERED *</pattern>
+<template>The institute offers ten UG courses (Regular), four UG courses (Part time), PG programs with twenty two specializations, two part time PG courses.</template>
+</category>
+
+<category>
+<pattern>* NIRF *</pattern>
+<template>yes,this is NIRF Ranked Institute</template>
+</category>
+
+<category>
+<pattern> * ABOUT * COLLEGE </pattern>
+<template>SGSITS is recognized as a leading institute in the state of Madhya Pradesh. To know more about the college
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/about-us">Visit Here</a>
+]]>
+</template>
+</category>
+
+<category>
+<pattern> ABOUT * COLLEGE </pattern>
+<template>SGSITS is recognized as a leading institute in the state of Madhya Pradesh. To know more about the college
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/about-us">Visit Here</a>
+]]>
+</template>
+</category>
+
+<category>
+<pattern>* VISION *</pattern>
+<template>A front-line institute in science and technology making significant contributions to human resource development envisaging dynamic needs of the society.
+</template>
+</category>
+
+<category>
+<pattern>* MISSION *</pattern>
+<template>To generate experts in science and technology akin to society for its accelerated socioeconomic growth in professional and challenging environment imparting human values.
+</template>
+</category>
+
+<category>
+<pattern>* AICTE APPROVED</pattern>
+<template>Yes, the institute is AICTE approved.</template>
+</category>
+
+<category>
+<pattern>* AICTE APPROVED *</pattern>
+<template>Yes, the institute is AICTE approved.</template>
+</category>
+
+<category>
+<pattern> * TELEPHONE DIRECTORY * </pattern>
+<template>
+<![CDATA[
+<a target="_blank" href=" http://www.sgsits.ac.in/telephone-directory ">Click Here</a>
+]]>
+</template>
+</category>
+
+<category>
+<pattern>  * CONTACT DETAILS * </pattern>
+<template> For Contact Details
+<![CDATA[
+<a target="_blank" href=" http://www.sgsits.ac.in/telephone-directory ">Click Here</a>
+]]>
+</template>
+</category>
+
+<category>
+<pattern>  * CONTACT DETAILS </pattern>
+<template> For Contact Details
+<![CDATA[
+<a target="_blank" href=" http://www.sgsits.ac.in/telephone-directory ">Click Here</a>
+]]>
+</template>
+</category>
+
+<category>
+<pattern>  CONTACT DETAILS * </pattern>
+<template> For Contact Details
+<![CDATA[
+<a target="_blank" href=" http://www.sgsits.ac.in/telephone-directory ">Click Here</a>
+]]>
+</template>
+</category>
+
+<category>
+<pattern>* NAME * DIRECTOR </pattern>
+<template>Dr. Rakesh Saxena is a Director of this college</template>
+</category>
+
+<category>
+<pattern>* CONTACT NO * DIRECTOR </pattern>
+<template>0731-2582112, 0731-2544415, 9425055536</template>
+</category>
+
+<category>
+<pattern>* EMAIL * DIRECTOR </pattern>
+<template>director@sgsits.ac.in</template>
+</category>
+
+<category>
+<pattern> * INFRASTRUCTURE *</pattern>
+<template>For Information related to infrastructure
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/infrastructure">Click Here</a>
+]]>
+</template>
+</category>
+
+<category>
+<pattern> INFRASTRUCTURE *</pattern>
+<template>For Information related to infrastructure
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/infrastructure">Click Here</a>
+]]>
+</template>
+</category>
+
+<category>
+<pattern>* Wifi Facility *</pattern>
+<template>Yes, college provide wifi facility
+</template>
+</category>
+
+<category>
+<pattern>* Wifi Facility</pattern>
+<template>Yes, college provide wifi facility
+</template>
+</category>
+</aiml>

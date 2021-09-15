@@ -1,0 +1,219 @@
+<aiml>
+<category>
+<pattern> * DEPARTMENTS</pattern>
+<template>There are 15 departments. To get more information
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/academics/departments ">Click Here</a>
+]]>
+</template>
+</category>
+<category>
+<pattern> DEPARTMENTS</pattern>
+<template>There are 15 departments. To get more information
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/academics/departments ">Click Here</a>
+]]>
+</template>
+</category>
+<category>
+<pattern> * DEPARTMENTS *</pattern>
+<template>There are 15 departments. To get more information
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/academics/departments ">Click Here</a>
+]]>
+</template>
+</category>
+<category>
+<pattern>DEPARTMENTS *</pattern>
+<template>There are 15 departments. To get more information
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/academics/departments ">Click Here</a>
+]]>
+</template>
+</category>
+
+<category>
+<pattern> ACADEMIC CALENDAR </pattern>
+<template>
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/academics/academic-calender">Click Here</a>
+]]>
+</template>
+</category>
+    <category>
+<pattern> * ACADEMIC CALENDAR </pattern>
+<template>
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/academics/academic-calender">Click Here</a>
+]]>
+</template>
+</category>
+    <category>
+<pattern> ACADEMIC CALENDAR * </pattern>
+<template>
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/academics/academic-calender">Click Here</a>
+]]>
+</template>
+</category>
+
+<category>
+<pattern> LATEST NEWS UPDATE </pattern>
+<template>
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/news-update-detail ">Click Here</a>
+]]>
+</template>
+</category>
+
+<category>
+<pattern> * NOTICE BOARD </pattern>
+<template>
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/news-update-detail ">Click Here</a>
+]]>
+</template>
+</category>
+
+    <category>
+<pattern> NOTICE BOARD </pattern>
+<template>
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/news-update-detail ">Click Here</a>
+]]>
+</template>
+</category>
+<category>
+<pattern>  MAP </pattern>
+<template>
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/campus-map ">Click Here</a>
+]]>
+</template>
+</category>
+<category>
+<pattern>  PHOTOS  </pattern>
+<template>
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/photo-gallery ">Click Here</a>
+]]>
+</template>
+</category>
+<category>
+<pattern>  ALUMNI ASSOCIATION  </pattern>
+<template>
+<![CDATA[
+<a target="_blank" href=" http://www.sgsitsalumniassociation.com ">Click Here</a>
+]]>
+</template>
+</category>
+<category>
+<pattern>  * RESULTS  </pattern>
+<template>TO CHECK RESULTS PLEASE
+<![CDATA[
+<a target="_blank" href=" http://www.sgsitsindore.in/Exam/ProgramSelect.aspx ">Click Here</a>
+]]>
+</template>
+</category>
+    <category>
+<pattern>  * RESULTS * </pattern>
+<template>TO CHECK RESULTS PLEASE
+<![CDATA[
+<a target="_blank" href=" http://www.sgsitsindore.in/Exam/ProgramSelect.aspx ">Click Here</a>
+]]>
+</template>
+</category>
+    <category>
+<pattern>   RESULTS * </pattern>
+<template>TO CHECK RESULTS PLEASE
+<![CDATA[
+<a target="_blank" href=" http://www.sgsitsindore.in/Exam/ProgramSelect.aspx ">Click Here</a>
+]]>
+</template>
+</category>
+    <category>
+<pattern>   RESULTS  </pattern>
+<template>TO CHECK RESULTS PLEASE
+<![CDATA[
+<a target="_blank" href=" http://www.sgsitsindore.in/Exam/ProgramSelect.aspx ">Click Here</a>
+]]>
+</template>
+</category>
+
+<category>
+<pattern>  CENTRAL LIBRARY COLLECTION  </pattern>
+<template>
+Library acquires the good collections of Books, Research Journals, Thesis and Electronic documents.
+</template>
+</category>
+    <category>
+<pattern>  * CENTRAL WORKSHOP </pattern>
+<template>
+VARIOUS FACILITIES ARE AVAILABLE IN CENTRAL WORKSHOP MACHINE SHOP, FITTING SHOP, WELDING SHOP, SMITHY SHOP, CARPENTRY SHOP, FOUNDRY SHOP.
+</template>
+</category>
+<category>
+<pattern>  * CENTRAL LIBRARY COLLECTION  </pattern>
+<template>
+Library acquires the good collections of Books, Research Journals, Thesis and Electronic documents.
+</template>
+</category>
+<category>
+<pattern> ON WHICH BASIS STUDENTS GET ADMISSION IN B TECH </pattern>
+<template>
+Students got admission through Joint Entrance Exam (JEE Mains) conducted at All India level by CBSE.
+</template>
+</category>
+<category>
+<pattern> * ADMISSION PROCEDURE </pattern>
+<template>
+The admission procedure is conducted in three phases : Round 1, Round 2 and College Level Counselling.
+</template>
+</category>
+<category>
+<pattern> * B TECH FEE STRUCTURE</pattern>
+<template>For Fee Structure
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/admission/under-graduate">Click Here</a>
+]]>
+</template>
+</category>
+    <category>
+<pattern> B TECH FEE STRUCTURE</pattern>
+<template>For Fee Structure
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/admission/under-graduate">Click Here</a>
+]]>
+</template>
+</category>
+    <category>
+<pattern> PG FEE STRUCTURE</pattern>
+<template>For Fee Structure
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/admission/post-graduate">Click Here</a>
+]]>
+</template>
+</category>
+    <category>
+<pattern> * PG FEE STRUCTURE</pattern>
+<template>For Fee Structure
+<![CDATA[
+<a target="_blank" href="http://www.sgsits.ac.in/admission/post-graduate">Click Here</a>
+]]>
+</template>
+</category>
+    <category>
+<pattern>* MEDICAL FACILITY * </pattern>
+<template>
+There is a medical facility of dispensary in institute premises which is open from 12:00 PM to 06:00 PM. Full time Facilities like First-Aid etc. are available in the dispensary.
+</template>
+</category>
+    <category>
+<pattern>* MEDICAL FACILITY </pattern>
+<template>
+There is a medical facility of dispensary in institute premises which is open from 12:00 PM to 06:00 PM. Full time Facilities like First-Aid etc. are available in the dispensary.
+</template>
+</category>
+
+</aiml>
+
